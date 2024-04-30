@@ -9,8 +9,6 @@
 
 - 👯 I’m looking to collaborate on **Full Stack Web Dev Projects**
 
-- 👨‍💻 All of my projects are available at [https://rohitchauhan98.github.io/Portfolio/](https://rohitchauhan98.github.io/Portfolio/)
-
 - 📫 You can reach me at **rc56951@gmail.com**
 
 <h3 align="left">Connect with me:</h3>

@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitchauhan98&label=Profile%20views&color=0e75b6&style=flat" alt="rohitchauhan98" /> </p>
 
-- 🔭 I’m currently working on **NextJs Projects**
+- 🔭 I’m currently working on **Survey App**
 
 - 🌱 I’m currently learning **ReactNative**
 

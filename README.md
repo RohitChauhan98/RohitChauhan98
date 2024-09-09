@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitchauhan98&label=Profile%20views&color=0e75b6&style=flat" alt="rohitchauhan98" /> </p>
 
-- 🔭 I’m currently working on **File Transferring using WebRTC**
+- 🔭 I’m currently working on **NextJs Projects**
 
-- 🌱 I’m currently learning **webRTC**
+- 🌱 I’m currently learning **ReactNative**
 
 - 👯 I’m looking to collaborate on **Full Stack Web Dev Projects**
 

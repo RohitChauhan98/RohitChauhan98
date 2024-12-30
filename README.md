@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitchauhan98&label=Profile%20views&color=0e75b6&style=flat" alt="rohitchauhan98" /> </p>
 
-- 🔭 I’m currently building on **Microservices for Xandre Backend**
+- 🔭 I’m currently building **Microservices for Xandre Backend**
 
 - 🌱 I’m currently learning **ReactNative**
 

@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **ReactNative**
 
-- 👯 I’m looking to collaborate on **Full Stack Web Dev Projects**
+- 👯 I’m looking to collaborate on **Full Stack Projects**
 
 - 📫 You can reach me at **rc56951@gmail.com**
 

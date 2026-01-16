@@ -6,7 +6,6 @@
   
 ### 🚀 Full Stack Developer | DevOps Enthusiast | Open Source Contributor
 
-*Building scalable solutions, one commit at a time*
 
 </div>
 
@@ -14,16 +13,24 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-### 👨‍💻 About Me
+### About Me
+- 🌱 Currently strengthening my skills in **Data Structures & Algorithms (C++)**  
+- ✔ Proficient in **JavaScript & TypeScript**, with hands-on experience in **React, Next.js, Node.js, Express, and MongoDB**  
+- 🛠 Experienced in building **full-stack MERN applications**, **REST APIs**, **JWT authentication**, and **database transactions**  
+- 🚀 Actively working on **real-world projects** and improving **code quality, performance, and scalability**  
 
 
-<br/>
+### Other Interests
 
-- 🔭 **Currently Working On:** 
-- 🌱 **Currently Learning:** Advanced Kubernetes & Cloud Native Architecture
-- 🎯 **2026 Goals:** Contribute to major open source projects
-- 💡 **Fun Fact:** I debug in my dreams
-- 📫 **Reach me at:** rohitchauhan.uki@gmail.com
+- 🌿 Enjoy **nature walks** and visiting **scenic places** (especially mountains)  
+- 🧠 Curious about how systems work **end-to-end**, from UI to backend logic  
+- 🌐 Interested in **system design** and **scalable architectures**  
+- 🗣 Fluent in **English** and **Hindi**
+
+###  Quick Facts
+
+- 🤝 Open to **Full-Time, freelance work, and collaborations**  
+- 📈 Believe in **learning by building, breaking, and improving**
 
 <br clear="right"/>
 

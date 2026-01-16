@@ -1,17 +1,132 @@
-<h1 align="center">Hi 👋, I'm Rohit Chauhan</h1>
-<h3 align="center">Crafting code and building dreams</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Rohit%20Chauhan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitchauhan98&label=Profile%20views&color=0e75b6&style=flat" alt="rohitchauhan98" /> </p>
+<div align="center">
+  
+### 🚀 Full Stack Developer | DevOps Enthusiast | Open Source Contributor
+
+*Building scalable solutions, one commit at a time*
+
+</div>
+
+<br/>
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+### 👨‍💻 About Me
 
 
-- 👯 I’m looking to collaborate on **Full Stack Projects**
+<br/>
 
-- 📫 You can reach me at **rc56951@gmail.com**
+- 🔭 **Currently Working On:** 
+- 🌱 **Currently Learning:** Advanced Kubernetes & Cloud Native Architecture
+- 🎯 **2026 Goals:** Contribute to major open source projects
+- 💡 **Fun Fact:** I debug in my dreams
+- 📫 **Reach me at:** rohitchauhan.uki@gmail.com
+
+<br clear="right"/>
+
+---
+
+<div align="center">
+  <h2>🛠️ Tech Arsenal</h2>
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=js" width="48" height="48" />
+        <br/>JavaScript
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" />
+        <br/>Node.js
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=express" width="48" height="48" />
+        <br/>Express
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=react" width="48" height="48" />
+        <br/>React
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" />
+        <br/>Next.js
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" width="48" height="48" />
+        <br/>React Native
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" />
+        <br/>PostgreSQL
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=prisma" width="48" height="48" />
+        <br/>Prisma
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="48" height="48" />
+        <br/>Docker
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="48" height="48" />
+        <br/>AWS
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" />
+        <br/>Git
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=github" width="48" height="48" />
+        <br/>GitHub
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+<div align="center">
+
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=RohitChauhan98&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF" alt="Contribution Graph"/>
+
+</div>
+
+
+---
+
+<div align="center">
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohitchauhan98&show_icons=true&locale=en&layout=compact" alt="rohitchauhan98" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohitchauhan98&show_icons=true&locale=en" alt="rohitchauhan98" /></p>
 
 
+## 💬 Let's Connect
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://twitter.com/YOUR_TWITTER" target="_blank">
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+</a>
+<a href="mailto:your.rohitchauhan.uki@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://yourportfolio.com" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+</a>
+
+
+</div>
+
+---
+
+**"First, solve the problem. Then, write the code."** – *John Johnson*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
+</div>

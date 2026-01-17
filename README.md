@@ -93,45 +93,37 @@
   </table>
 </div>
 
----
 
-<div align="center">
+<!-- <div align="center">
 
 
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=RohitChauhan98&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF" alt="Contribution Graph"/>
 
-</div>
+</div> -->
 
 
----
-
-<div align="center">
-
-
+<div align="center"> 
 
 
 
 ## 💬 Let's Connect
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+<a href="https://www.linkedin.com/in/rohit-chauhan-82231721b/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="https://twitter.com/YOUR_TWITTER" target="_blank">
+<a href="https://x.com/RohitChauhan_r" target="_blank">
 <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
 </a>
 <a href="mailto:your.rohitchauhan.uki@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-<a href="https://yourportfolio.com" target="_blank">
+<a href="https://personal-website-nu-three-77.vercel.app/" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
 </a>
 
 
 </div>
 
----
-
-**"First, solve the problem. Then, write the code."** – *John Johnson*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
